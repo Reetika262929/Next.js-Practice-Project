@@ -16,9 +16,9 @@ export default function Home() {
       </Head>
     
 <div className="container" style={{padding:"20px"}}>
-  <div class="row" >
+  <div class="row" style={{marginTop:"60px"}}>
     <div class="col-lg-8 col-md-8 col-sm-6 col-xs-6" style={{float:"left",marginBottom:"30px;"}}>
-      <h1 class="main1-head">Online Market With The Biggest Product Choise</h1>
+      <h1 class="main1-head">Online Market With The Biggest Product Choice</h1>
       <p class="con">In our online store the biggest choise of products on the planet.  Free <br/>delivery and a lot of benefit for you yet.</p>
       <button type="submit" class="btn btn"  id="btn" value="submit">Get Discount for $99</button>
     </div>
@@ -176,7 +176,7 @@ export default function Home() {
  
   <div class="col-lg-2">
   <p>
-      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-70px"}}><b>$429</b></button> 
     </p>
   
   </div>
@@ -196,7 +196,7 @@ export default function Home() {
  
   <div class="col-lg-2">
   <p>
-      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-70px"}}><b>$429</b></button> 
     </p>
   
   </div>
@@ -216,7 +216,7 @@ export default function Home() {
  
   <div class="col-lg-2">
   <p>
-    <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+    <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-70px"}}><b>$429</b></button> 
     </p>
   
   </div>
@@ -240,7 +240,7 @@ export default function Home() {
  
   <div class="col-lg-2">
   <p>
-      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-70px"}}><b>$429</b></button> 
     </p>
   
   </div>
@@ -260,7 +260,7 @@ export default function Home() {
  
   <div class="col-lg-2">
   <p>
-      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-70px"}}><b>$429</b></button> 
     </p>
   
   </div>
@@ -280,7 +280,7 @@ export default function Home() {
  
   <div class="col-lg-2">
   <p>
-    <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+    <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-70px"}}><b>$429</b></button> 
     </p>
   
   </div>
@@ -288,9 +288,66 @@ export default function Home() {
 <p class="para1">Smartwatches designed and developed by Apple Inc.</p>
     </div>
     </div>
+
+
+ 
+  </div>
+  <div  style={{backgroundColor:"#2F1893" , padding:"130px"}} >
+
+<h1 class="eco8">Unexpected Gifts for Your <br/>Best Friend</h1>
+<p class="eco-p">Having trouble finding a gift that's as great as your best friend? Scroll on for a<br/> list of ideas that includes apparels, home decor, accessories, gadgets, and <br/>more—you'll definitely find something they'll love!</p>   
+ 
+ <div class="row" style={{marginTop:"80px"}}>
+   <div class="col-lg-4">
+     <img src="/img/eco1.png" style={{width:"100%"}}/>
+     <p class="body" style={{textAlign:"center"}}>FOR BODY</p>
+     <p class="cus">Custom superbottle with a powerful <br/>combination punch</p>
+   </div>
+   <div class="col-lg-4">
+   <img src="/img/eco2.png" style={{width:"100%"}}/>
+     <p class="body" style={{textAlign:"center"}}>FOR FACE</p>
+      <p class="cus">Splash water on your face before <br/>applying</p>
+   </div>
+   <div class="col-lg-4">
+   <img src="/img/eco3.png" style={{width:"100%"}}/>
+     <p class="body" style={{textAlign:"center"}}>FOR HANDS</p>
+      <p class="cus">Only natural creams are used here</p>
+   </div>
+ </div>
+
+ <button type="submit" class="btn btn"  id="btn" value="submit" style={{margin:"auto",marginTop:"80px"}}>Get All for $199</button>
+ </div>
+<div class="container-fluid" style={{marginTop:"5px"}}>
+  <div class="row" >
+    <div class="col-lg-6">
+      <img src="/img/imggg.png" style={{width:"100%",height:"100%"}}/>
+    </div>
+    <div class="col-lg-6" style={{backgroundColor:"#2F1893",padding:"120px"}}>
+  <p class="p">puma hoodie</p>
+  <h1 class="h">Discounted Product <br/>of the Week</h1>
+  <p class="p1">Customized cotton pullover hoodies with<br/> embroidery logo company </p>
+  <div class="row" style={{marginTop:"150px"}}>
+    <div class="col-lg-2">
+      <p class="price">$24.99</p>
+    </div>
+    
+    <div class="col-lg-2">
+      <p class="price1">$64.99</p>
+    </div>
   </div>
 
-
+  <div class="row">
+    <div class="col-lg-3">
+    <button type="submit" class="btn btn"  id="btn4" value="submit" style={{margin:"auto",marginTop:"0px"}}>Buy Now</button>
+    </div>
+    
+    <div class="col-lg-3">
+    <button type="submit" class="btn btn"  id="btn3" value="submit" style={{margin:"auto",marginTop:"0px",marginLeft:"-70px"}}>View More</button>
+    </div>
+  </div>
+    </div>
+  </div>
+</div>
 
     </>
   )

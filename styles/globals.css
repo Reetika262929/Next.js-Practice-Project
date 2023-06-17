@@ -247,3 +247,189 @@ color: rgba(21, 20, 57, 0.4);
   color: rgba(21, 20, 57, 0.4);
   
 }
+
+.eco8{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 52px;
+/* or 124% */
+
+text-align: center;
+letter-spacing: -0.4px;
+
+/* Colors / White */
+
+color: #FFFFFF;
+
+}
+
+.eco-p{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: center;
+
+/* Colors / White */
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+.body{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+margin-top: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+/* Colors / White */
+
+color: #FFFFFF;
+
+}
+.cus{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Colors / White */
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+#btn3{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+text-align: center;
+margin-top:-70px;
+/* Colors / White */
+
+color: #FFFFFF;
+
+}
+#btn4{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+margin-top:-70px;
+text-align: center;
+
+/* Colors / Heading */
+background-color: #FFFFFF;
+color: #1E0E62;
+/* Colors / White */
+
+background: #FFFFFF;
+border-radius: 100px;
+}
+.h{
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 52px;
+  /* or 124% */
+  
+  letter-spacing: -0.4px;
+  
+  /* Colors / White */
+  
+  color: #FFFFFF;
+  
+}
+.p{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+
+
+letter-spacing: 2px;
+text-transform: uppercase;
+
+/* Colors / White */
+
+color: #FFFFFF;
+
+}
+.p1{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+
+/* Colors / White */
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+
+.price{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+display: flex;
+align-items: center;
+
+/* Colors / White */
+
+color: #FFFFFF;
+
+}
+.price1{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+display: flex;
+align-items: center;
+text-decoration-line: line-through;
+
+/* Colors / Grey */
+
+color: #EBEAED;
+
+opacity: 0.7;
+}
