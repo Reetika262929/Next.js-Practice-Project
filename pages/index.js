@@ -15,15 +15,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     
-<div className="container" style={{padding:"100px"}}>
+<div className="container" style={{padding:"20px"}}>
   <div class="row" >
-    <div class="col-lg-8" style={{float:"left",marginBottom:"30px;"}}>
+    <div class="col-lg-8 col-md-8 col-sm-6 col-xs-6" style={{float:"left",marginBottom:"30px;"}}>
       <h1 class="main1-head">Online Market With The Biggest Product Choise</h1>
       <p class="con">In our online store the biggest choise of products on the planet.  Free <br/>delivery and a lot of benefit for you yet.</p>
       <button type="submit" class="btn btn"  id="btn" value="submit">Get Discount for $99</button>
     </div>
-     <div class="col-lg-4" style={{float:"right"}}>
-      <img src="/img/pro.png" />
+     <div class="col-lg-4 col-sm-6 col-xs-6" style={{float:"right"}}>
+      <img src="/img/pro.png"  style={{width:"100%"}}/>
      </div>
 
   </div>
@@ -33,7 +33,7 @@ export default function Home() {
     <div class="col-lg-2">
     
     
-        <img src="/img/img1.png" />
+        <img src="/img/img1.png"  style={{width:"100%"}}/>
         </div>
       <div class="col-lg-2">
         <h1 class="pro-title">iPhone XR</h1>
@@ -45,7 +45,7 @@ export default function Home() {
         <div class="col-lg-2">
     
     
-    <img src="/img/img2.png" />
+    <img src="/img/img2.png"  style={{width:"100%"}}/>
     </div>
 
     <div class="col-lg-2">
@@ -58,7 +58,7 @@ export default function Home() {
     <div class="col-lg-2">
     
     
-        <img src="/img/img3.png" />
+        <img src="/img/img3.png"  style={{width:"100%"}}/>
         </div>
         <div class="col-lg-2">
         <h1 class="pro-title">iPhone XR</h1>
@@ -71,10 +71,10 @@ export default function Home() {
 
 
 <div class="row"  style={{marginTop:"100px"}}>
-  <div class="col-lg-5">
+  <div class="col-lg-5 col-md-5 col-sm-6 col-xs-6">
 
   <div class="row" style={{padding:"30px"}} id="row2">
-    <div class="col-lg-8">
+    <div class="col-lg-8 col-md-8">
     <p class="sub-head" style={{marginTop:"0px"}}>Apple</p>
       <h2 class="main-head" style={{marginTop:"-10px"}}><b>iMac 27”</b></h2>
       <p class="para" style={{marginTop:"0px"}}>   • 1TB hard drive<br/>
@@ -82,7 +82,7 @@ export default function Home() {
 • 16GB DDR4 memory</p>
     </div>
       <div class="col-lg-4">
-        <img src="/img/img5.png" style={{display:"block",margin:"auto " ,marginTop:"0px",marginLeft:"-80px"}}/>
+        <img src="/img/img5.png" style={{marginTop:"0px",marginLeft:"-80px",}}/>
       </div>
       <div class="row">
 <div class="col-lg-6">
@@ -108,13 +108,13 @@ export default function Home() {
 • 8GB DDR4 memory </p>
     </div>
       <div class="col-lg-4">
-        <img src="/img/img6.png" style={{display:"block",margin:"auto" ,marginTop:"0px",marginLeft:"-80px"}}/>
+        <img src="/img/img6.png" style={{marginTop:"0px",marginLeft:"-80px",}}/>
       </div>
       <div class="row">
-<div class="col-lg-6">
+<div class="col-lg-6 col-sm-6 col-xs-6">
 <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"-80px"}}><b>Add to Cart</b></button> 
   </div>
-  <div class="col-lg-6">
+  <div class="col-lg-6 col-sm-6 col-xs-6">
     <p class="pri" style={{marginTop:"-80px",marginLeft:"-70px"}}> $4259</p>
   </div>
   </div>
@@ -124,7 +124,7 @@ export default function Home() {
   
     </div>
   </div>
-  <div class="col-lg-6" style={{padding:"30px",marginLeft:"50px"}} id="row2">
+  <div class="col-lg-6 col-sm-6 col-xs-6" style={{padding:"30px",marginLeft:"50px"}} id="row2">
 <p class="sub-head" style={{marginTop:"0px"}}>Dji mavic 2 pro</p>
 <p class="main-head" style={{marginTop:"-0px"}}><b>Quadrocopter  White</b></p>
 <div class="row">
@@ -143,7 +143,7 @@ export default function Home() {
   
  </div>
 </div>
-<img src="/img/img4.png"  style={{display:"block",margin:"auto"}}/>
+<img src="/img/img4.png"  style={{display:"block",margin:"auto",}}/>
 <p class="para" style={{marginTop:"30px"}}> A quadcopter is multi-rotor copter with four arms, each of which has a motor and a propeller at their ends. </p>
 <div class="row">
 <div class="col-lg-6">
@@ -155,6 +155,139 @@ export default function Home() {
   </div>
 </div>
   </div>
+
+
+  <div class="row" style={{marginTop:"100px"}}>
+    
+<div >
+  <h1 style={{textAlign:"center"}} class="main3">Latest Products & Accessories</h1>
+  <p style={{textAlign:"center"}} class="paragraph">From smartphones and smart homes, to voice assistants and other cool gadgets<br/>that make life easier.</p>
+</div>
+    <div class="col-lg-4">
+
+
+<img src="/img/apple1.png" />
+
+<div class="row">
+  <div class="col-lg-10">
+    <p style={{textAlign:"center",marginTop:"30px"}} class="head3">Apple iPhone 7 32GB Silver</p>
+   
+  </div>
+ 
+  <div class="col-lg-2">
+  <p>
+      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+    </p>
+  
+  </div>
+</div>
+<p class="para1">Smartphone designed, developed and marketed by Apple Inc.</p>
+    </div>
+  <div class="col-lg-4">
+
+
+<img src="/img/apple2.png" />
+
+<div class="row">
+  <div class="col-lg-10">
+    <p style={{textAlign:"center",marginTop:"30px"}} class="head3">Apple iPad Pro 64GB Silver</p>
+   
+  </div>
+ 
+  <div class="col-lg-2">
+  <p>
+      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+    </p>
+  
+  </div>
+</div>
+<p class="para1">iPad Mini tablet computer produced and marketed by Apple Inc.</p>
+    </div>
+  <div class="col-lg-4">
+
+
+<img src="/img/apple3.png" />
+
+<div class="row">
+  <div class="col-lg-10">
+    <p style={{textAlign:"center",marginTop:"30px"}} class="head3">Apple MacBook Air</p>
+   
+  </div>
+ 
+  <div class="col-lg-2">
+  <p>
+    <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+    </p>
+  
+  </div>
+</div>
+<p class="para1">Seventh-generation Intel Core processors.</p>
+    </div>
+    </div>
+
+
+    <div class="row" style={{marginTop:"50px"}}>
+    <div class="col-lg-4">
+
+
+<img src="/img/apple4.png" />
+
+<div class="row">
+  <div class="col-lg-10">
+    <p style={{textAlign:"center",marginTop:"30px"}} class="head3">Apple Airpods</p>
+   
+  </div>
+ 
+  <div class="col-lg-2">
+  <p>
+      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+    </p>
+  
+  </div>
+</div>
+<p class="para1">Simply take them out and they’re ready to use with all your devices.</p>
+    </div>
+  <div class="col-lg-4">
+
+
+<img src="/img/apple5.png" />
+
+<div class="row">
+  <div class="col-lg-10">
+    <p style={{textAlign:"center",marginTop:"30px"}} class="head3">Apple pencil</p>
+   
+  </div>
+ 
+  <div class="col-lg-2">
+  <p>
+      <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+    </p>
+  
+  </div>
+</div>
+<p class="para1">The new Apple Pencil takes that experience even further.</p>
+    </div>
+  <div class="col-lg-4">
+
+
+<img src="/img/apple6.png" />
+
+<div class="row">
+  <div class="col-lg-10">
+    <p style={{textAlign:"center",marginTop:"30px"}} class="head3">Apple Watch</p>
+   
+  </div>
+ 
+  <div class="col-lg-2">
+  <p>
+    <button type="submit" class="btn btn" value="submit" id="btn1" style={{marginTop:"20px",marginLeft:"-20px"}}><b>$429</b></button> 
+    </p>
+  
+  </div>
+</div>
+<p class="para1">Smartwatches designed and developed by Apple Inc.</p>
+    </div>
+    </div>
   </div>
 
 

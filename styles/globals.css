@@ -179,3 +179,71 @@ color: #482BE7;
 border: 2px solid #EBEAED;
 border-radius: 20px;
 }
+.head3{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+
+display: flex;
+align-items: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+/* Colors / Heading */
+
+color: #1E0E62;
+
+}
+
+
+.para1{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+display: flex;
+align-items: center;
+
+/* Colors / Text */
+
+color: rgba(21, 20, 57, 0.4);
+
+
+}
+.main3{
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 52px;
+  /* or 124% */
+  
+  text-align: center;
+  letter-spacing: -0.4px;
+  
+  /* Colors / Heading */
+  
+  color: #1E0E62;
+  
+}
+.paragraph{
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  /* or 162% */
+  
+  text-align: center;
+  
+  /* Colors / Text */
+  
+  color: rgba(21, 20, 57, 0.4);
+  
+}
