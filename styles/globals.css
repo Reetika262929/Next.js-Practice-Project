@@ -37,7 +37,7 @@ line-height: 26px;
 color: rgba(21, 20, 57, 0.4);
 
 }
-.main-head{
+.main1-head{
   font-family: 'DM Sans';
 font-style: normal;
 font-weight: 700;
@@ -107,4 +107,75 @@ text-align: center;
 
 color: #1E0E62;
 
+}
+.sub-head{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 26px;
+margin-left:20px;
+/* identical to box height, or 186% */
+
+letter-spacing: 2px;
+text-transform: uppercase;
+
+/* Colors / Text */
+
+color: rgba(21, 20, 57, 0.4);
+
+
+}
+.main-head{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 32px;
+/* or 145% */
+
+
+/* Colors / Heading */
+
+color: #1E0E62;
+
+}
+
+.para{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Colors / Text */
+
+color: rgba(21, 20, 57, 0.4);
+
+}
+.pri{
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 26px;
+/* or 186% */
+
+letter-spacing: 2px;
+text-transform: uppercase;
+
+/* Action / Secondary */
+
+color: #482BE7;
+
+}
+#row2{
+  margin-top:30px;
+  background: #FFFFFF;
+/* Colors / Grey */
+
+border: 2px solid #EBEAED;
+border-radius: 20px;
 }
